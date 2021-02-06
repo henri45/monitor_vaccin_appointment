@@ -1,0 +1,5 @@
+.DS_Store
+config_parser.py
+config.ini
+.vaccin_env/
+__pycache__/
